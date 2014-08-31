@@ -7,7 +7,7 @@ ng-hide
 ng-repeat
 ng-repeat-start
 ng-repeat-end
-
+ng-class
 
 
 var app = angular.module('app', [])
