@@ -10,7 +10,7 @@ ng-repeat-end
 ng-class
 ng-template
 ng-include
-
+ng-model
 
 var app = angular.module('app', [])
 global controller function
