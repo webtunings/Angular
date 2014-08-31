@@ -1,0 +1,18 @@
+ng-app
+ng-controller
+ng-click
+ng-mouseover
+ng-show
+ng-hide
+ng-repeat
+ng-repeat-start
+ng-repeat-end
+
+
+
+var app = angular.module('app', [])
+global controller function
+app.controller('name', fn)
+//add dependecy too
+angular.module('controllers', []).controlller('name',fn)
+element in arr track by $index
