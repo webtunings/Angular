@@ -8,6 +8,8 @@ ng-repeat
 ng-repeat-start
 ng-repeat-end
 ng-class
+ng-template
+ng-include
 
 
 var app = angular.module('app', [])
