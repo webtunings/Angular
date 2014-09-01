@@ -18,3 +18,4 @@ app.controller('name', fn)
 //add dependecy too
 angular.module('controllers', []).controlller('name',fn)
 element in arr track by $index
+$scope.$watch
