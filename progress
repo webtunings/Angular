@@ -19,3 +19,4 @@ app.controller('name', fn)
 angular.module('controllers', []).controlller('name',fn)
 element in arr track by $index
 $scope.$watch
+unwatch
