@@ -1,4 +1,4 @@
-ung-app
+ng-app
 ng-controller
 ng-click
 ng-mouseover
@@ -24,4 +24,5 @@ element in arr track by $index
 $scope.$watch
 unwatch
 filter
-advanced filters: orderBy, limitTo
+advanced filters: orderBy, limitTo:
+custome filters app.filter()
