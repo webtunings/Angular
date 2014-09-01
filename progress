@@ -11,6 +11,9 @@ ng-class
 ng-template
 ng-include
 ng-model
+ng-cloak
+
+
 
 var app = angular.module('app', [])
 global controller function
