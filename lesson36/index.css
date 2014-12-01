@@ -1,0 +1,19 @@
+
+table {
+    border-collapse: collapse;
+    color: hsl(180,100%,24%);
+}
+
+td,th {
+    border: 1px solid hsl(180, 100%, 15%);
+    padding: 10px;
+}
+
+form {
+    width:180px;
+    padding:10px;
+}
+
+input {
+    display: block;
+}
